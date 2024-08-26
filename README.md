@@ -1,5 +1,7 @@
 # 🌬️ Air Quality Analysis Dashboard
 
+![Screenshot (186)](https://github.com/user-attachments/assets/9bee7fd7-67d9-4001-84dd-5c96601ab022)
+
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of air pollution levels across various cities in India. Using data visualization techniques, it presents key air quality metrics such as PM2.5, PM10, and AQI (Air Quality Index) to help users understand the severity of air pollution and its impact on public health.
 
